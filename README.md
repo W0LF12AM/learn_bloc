@@ -1,16 +1,16 @@
-# notez_appz
+# 📝 Note App
 
-A new Flutter project.
+Aplikasi catatan simpel pakai **Flutter + Supabase**, dibangun untuk belajar clean architecture pakai **MVC** dan **BLoC**.
 
-## Getting Started
+## 🚀 Fitur
+- Tambah, edit, hapus catatan
+- Autentikasi pakai Supabase
+- Struktur rapi: MVC + BLoC
 
-This project is a starting point for a Flutter application.
+## 🧱 Stack
+- Flutter
+- Supabase (Auth & Database)
+- BLoC (State Management)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📝 Note
+- App ini ditujukan memang karna ingin belajar **clean architecture** + **bloc**, jadi buat UI nya masih alakadarna hehehe
