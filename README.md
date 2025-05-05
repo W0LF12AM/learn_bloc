@@ -13,4 +13,4 @@ Aplikasi catatan simpel pakai **Flutter + Supabase**, dibangun untuk belajar cle
 - BLoC (State Management)
 
 ## 📝 Note
-- App ini ditujukan memang karna ingin belajar **clean architecture** + **bloc**, jadi buat UI nya masih alakadarna hehehe
+- App ini ditujukan memang karna ingin belajar **clean architecture** + **bloc**, jadi buat UI nya masih alakadarnya hehehe
